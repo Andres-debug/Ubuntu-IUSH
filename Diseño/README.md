@@ -14,8 +14,11 @@ Aquí se debe subir **todo el material visual y creativo** que el área de Dise�
 - Logotipos, paletas de colores, tipografía y branding
 - Cualquier otro recurso creativo relacionado con la identidad visual del proyecto
 
-> ℹ️ **Nota:** No es necesario seguir un formato estricto, pero es importante que los archivos estén bien organizados y actualizados para facilitar la revisión de los jueces.
+Entregable:
+Mockup Figma
+[https://www.figma.com/design/uNw5hxZanLZJvZbMA0BGP7/OmegaLab-Ubuntu?node-id=0-1&p=f&t=JxoTFbe7qr4Au3ip-0](https://www.figma.com/design/uNw5hxZanLZJvZbMA0BGP7/OmegaLab-Ubuntu?node-id=0-1&t=mrdf1WsHBKsx2CK1-1)
 
+Este es
 ---
 
 ¡Mucho éxito creando y diseñando lo que marcará la diferencia! 🚀
